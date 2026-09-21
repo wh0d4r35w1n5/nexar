@@ -204,10 +204,12 @@ export default function App() {
               style={{ animationDelay: '0.25s' }}
             >
               <div
-                className="rounded-[20px] sm:rounded-[28px] p-4 sm:p-6 pb-12 min-h-[220px] sm:min-h-[260px] bg-cover bg-[position:top_center] shadow-sm"
+                className="rounded-[20px] sm:rounded-[28px] p-4 sm:p-6 pb-12 min-h-[220px] sm:min-h-[260px] shadow-sm"
                 style={{
                   backgroundImage:
                     "url('https://media.promptsites.co/assets/0e454c0141c5b927.webp')",
+                  backgroundSize: 'cover',
+                  backgroundPosition: 'top center',
                 }}
               >
                 <div className="flex items-center justify-between">
