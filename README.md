@@ -4,6 +4,8 @@ A project management dashboard built with React, TypeScript, Tailwind CSS, Vite,
 
 ![Stack](https://img.shields.io/badge/React-18-61dafb) ![Stack](https://img.shields.io/badge/TypeScript-5-3178c6) ![Stack](https://img.shields.io/badge/Tailwind-3-38bdf8) ![Stack](https://img.shields.io/badge/Vite-5-a855f7)
 
+![Nexar dashboard](screenshot.png)
+
 ## Features
 
 - Fullscreen looping video background
